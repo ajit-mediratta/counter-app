@@ -1,4 +1,7 @@
 /node_modules
-/dist
+/build
 /npm-debug.log
 .idea/misc.xml
+.idea/
+package-lock.json
+yarn.lock
